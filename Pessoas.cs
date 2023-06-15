@@ -7,10 +7,10 @@ namespace SalesAggregation_FacultyProject
 {
     public class Pessoas
     {
-        protected  int codigo;
-        protected string nome;
-        protected string sobrenome;
-        protected int idade;
+        private  int codigo;
+        private string nome;
+        private string sobrenome;
+        private int idade;
 
         public Pessoas(){
 
@@ -47,8 +47,8 @@ namespace SalesAggregation_FacultyProject
         public void mostrar(){
             Console.WriteLine("Pessoa de código-> "+this.codigo
             +"\n Nome -> "+this.nome
-            +"\n Sobrenome -> "+this.codigo
-            +"\n Idade -> "+this.codigo+"\n\n");
+            +"\n Sobrenome -> "+this.sobrenome
+            +"\n Idade -> "+this.idade+"\n\n");
         }
     }
 }
