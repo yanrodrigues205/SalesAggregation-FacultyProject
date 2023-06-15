@@ -13,3 +13,18 @@ C:\Users\Aluno\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\refint\S
 C:\Users\Aluno\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.pdb
 C:\Users\Aluno\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.genruntimeconfig.cache
 C:\Users\Aluno\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\ref\SalesAggregation-FacultyProject.dll
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.csproj.AssemblyReference.cache
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.AssemblyInfoInputs.cache
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.AssemblyInfo.cs
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.csproj.CoreCompileInputs.cache
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.dll
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\refint\SalesAggregation-FacultyProject.dll
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.pdb
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\bin\Debug\net6.0\SalesAggregation-FacultyProject.exe
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\bin\Debug\net6.0\SalesAggregation-FacultyProject.deps.json
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\bin\Debug\net6.0\SalesAggregation-FacultyProject.runtimeconfig.json
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\bin\Debug\net6.0\SalesAggregation-FacultyProject.dll
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\bin\Debug\net6.0\SalesAggregation-FacultyProject.pdb
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\SalesAggregation-FacultyProject.genruntimeconfig.cache
+C:\Users\yan rodrigues\Desktop\SalesAggregation-FacultyProject\obj\Debug\net6.0\ref\SalesAggregation-FacultyProject.dll

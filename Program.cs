@@ -1,6 +1,6 @@
 ﻿using SalesAggregation_FacultyProject;
 int codigo = 500;
-
+int verba = 3500;
 Produtos p1 = new Produtos();
 p1.setCodigo(codigo++);
 p1.setNome("Sabonete");
@@ -23,6 +23,14 @@ produtos_comprados.Add(p1);
 produtos_comprados.Add(p2);
 Venda v = new Venda(1, "15/06/2023", total_geral, produtos_comprados);
 v.nota_fiscal();
+int comissao = ((total_geral  * 2)/100);
+int final = (verba - total_geral) - comissao;
+Console.WriteLine("A COMISSAO FICA NO VALOR DE: R$ "+comissao);
+Console.WriteLine("Saldo Inicial -> R$ "+verba+"\n"
++"Saldo Final -> R$ "+ final);
+
+
+
 
 
 

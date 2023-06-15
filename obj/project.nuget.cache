@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ica2PBqoo4UNPfeV0XBt8MNEg0X4Lk6vdZQ3Af9hIF3TBaMzIN3YNyqgNk0vZ22PCBvbvIVIunpzUoNIvJJZoA==",
+  "dgSpecHash": "Zw9FUN1gu99KAZLI9RVce/hkXlVqQ7sj0l/s89U5bXVSV+OjkxkIbHwUiZUs+ALWtBqaDLkXE6OgcGz8cMbnNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Desktop\\SalesAggregation-FacultyProject\\SalesAggregation-FacultyProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\yan rodrigues\\Desktop\\SalesAggregation-FacultyProject\\SalesAggregation-FacultyProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

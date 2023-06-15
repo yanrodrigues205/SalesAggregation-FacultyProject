@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\yan rodrigues\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\SalesAggregation-FacultyProject\\SalesAggregation-FacultyProject.csproj",
+      "projectUniqueName": "C:\\Users\\yan rodrigues\\Desktop\\SalesAggregation-FacultyProject\\SalesAggregation-FacultyProject.csproj",
       "projectName": "SalesAggregation-FacultyProject",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\SalesAggregation-FacultyProject\\SalesAggregation-FacultyProject.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\SalesAggregation-FacultyProject\\obj\\",
+      "projectPath": "C:\\Users\\yan rodrigues\\Desktop\\SalesAggregation-FacultyProject\\SalesAggregation-FacultyProject.csproj",
+      "packagesPath": "C:\\Users\\yan rodrigues\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yan rodrigues\\Desktop\\SalesAggregation-FacultyProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\yan rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -54,12 +54,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.18, 6.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.18, 6.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.18, 6.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.18, 6.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
