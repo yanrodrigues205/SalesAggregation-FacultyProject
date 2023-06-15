@@ -16,12 +16,6 @@ namespace SalesAggregation_FacultyProject
 
         public Produtos(){}
 
-        public void mostrar(){
-            Console.WriteLine("Produto código-> "+this.codigo
-            +"\n Nome -> "+this.nome
-            +"\n Descrição -> "+this.descricao
-            +"\n Quantidade -> "+this.quantidade+"\n\n");
-        }
 
         public void setCodigo(int Codigo){
             this.codigo = Codigo;
@@ -48,8 +42,8 @@ namespace SalesAggregation_FacultyProject
             return this.valor;
         }
 
-        public string apresentar(){
-            System.Console.WriteLine("\n Código -> "+this.codigo
+        public void apresentar(){
+            System.Console.WriteLine("Código -> "+this.codigo
             + " "+ this.nome+ " QTD:"+this.quantidade+" R$ "+this.valor);
         }
    }
